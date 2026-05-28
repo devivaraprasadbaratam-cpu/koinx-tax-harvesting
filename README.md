@@ -40,6 +40,35 @@ A responsive and interactive Tax Loss Harvesting Dashboard built using Next.js, 
 ---
 
 ## Setup Instructions
+Clone repository:
+
+```bash
+git clone https://github.com/devivaraprasadbaratam-cpu/koinx-tax-harvesting.git
+```
+
+Move into project folder:
+
+```bash
+cd koinx-tax-harvesting
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Open browser:
+
+```text
+http://localhost:3000
+```
 
 ## Screenshots
 
@@ -63,9 +92,17 @@ A responsive and interactive Tax Loss Harvesting Dashboard built using Next.js, 
 - Holdings data is assumed to be static for assignment purposes.
 - Tax calculations are simulated for demonstration purposes only.
 
+## Deployment
 
-Clone repository:
+Deployed using Vercel.
 
-```bash
-git clone YOUR_GITHUB_REPO_LINK
+---
+
+## Author
+
+Devi Vara Prasad Baratam
+
+
+
+
 
