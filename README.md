@@ -94,7 +94,7 @@ http://localhost:3000
 
 ## Deployment
 
-Deployed using Vercel.
+Live Url:https://koinx-tax-harvesting-ezie5kn7p.vercel.app
 
 ---
 
